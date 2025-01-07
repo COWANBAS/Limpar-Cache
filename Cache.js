@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                  Limpa o Cache do Navegador
 // @description           Limpa o cache sempre que uma nova guia for aberta
-// @version               1.1
+// @version               1.0
 // @author                Cowanbas
 // @match                 *://*/*
 // @run-at                document-start
